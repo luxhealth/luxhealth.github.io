@@ -28,5 +28,9 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
-
 gem "webrick", "~> 1.7"
+
+# Required for Ruby 3.4+ compatibility
+gem "csv"
+gem "logger"
+gem "base64"

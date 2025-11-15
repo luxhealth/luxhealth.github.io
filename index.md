@@ -5,13 +5,13 @@ title: Best-In-Class, Full-Stack Solution for Independent Provider Clinics
 amp_link: /
 ---
 
-<section style="width: 100%; text-align: center; padding: 32px 0; position: relative; z-index: 100;">
-  <a href="/healthcare-partners" class="hero-badge">
+<!-- <section style="width: 100%; text-align: center; padding: 32px 0; position: relative; z-index: 100;">
+</section> -->
+
+<main class="constrain-to-1760" style="background: black;">
+  <a href="/healthcare-partners" class="hero-badge" style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%);">
     Looking for our previous home page? Click here
   </a>
-</section>
-
-<main class="constrain-to-1760" style="background: black;position: absolute; top: 0;">
   <div id="floating-lines-container" style="position: relative; inset: 0; width: 100%; height: 100vh; overflow: hidden; z-index: 0;">
     <h1 style="margin: 0; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: black; font-size: 72px; color: rgba(0,0,0,0.25); text-align: center; width: 100%; pointer-events: none;">
       Lux Health

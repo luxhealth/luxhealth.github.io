@@ -3,6 +3,7 @@ layout: base
 description: Lux Health brings the top, full-stack software solution to independent provider clinics.
 title: Best-In-Class, Full-Stack Solution for Independent Provider Clinics
 permalink: /healthcare-partners
+use_lux_canvas: true
 ---
 
 <div id="modalNotification" class="basic-modal">

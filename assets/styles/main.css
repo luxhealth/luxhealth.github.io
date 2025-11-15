@@ -54,7 +54,7 @@ background-image: linear-gradient(
 
 @media (max-width: 480px) {
   .hero-badge {
-    width: 90%;
+    width: 80%;
     min-width: 0;
     justify-content: center;
   }

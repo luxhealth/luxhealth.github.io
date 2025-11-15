@@ -37,7 +37,6 @@ background-image: linear-gradient(
   color: #ffffff;
   text-transform: uppercase;
   letter-spacing: 0.5px;
-  min-width: 300px;
   margin-bottom: 40px;
   text-decoration: none;
   transition: all 0.2s;
@@ -51,6 +50,14 @@ background-image: linear-gradient(
 .hero-badge::after {
   content: '→';
   font-size: 14px;
+}
+
+@media (max-width: 480px) {
+  .hero-badge {
+    width: 90%;
+    min-width: 0;
+    justify-content: center;
+  }
 }
 
 #floating-lines-container canvas {

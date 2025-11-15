@@ -9,7 +9,7 @@ amp_link: /
 </section> -->
 
 <main class="constrain-to-1760" style="background: black;">
-  <a href="/healthcare-partners" class="hero-badge" style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%);">
+  <a href="/healthcare-partners" class="hero-badge" style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); z-index: 10; pointer-events: auto;">
     Looking for our previous home page? Click here
   </a>
   <div id="floating-lines-container" style="position: relative; inset: 0; width: 100%; height: 100vh; overflow: hidden; z-index: 0;">
